@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cbpsb2p218w4u"
-path="res://.godot/imported/arvore1.png-f6492822002870a65d68c17f45184d0f.ctex"
+uid="uid://dw768v8s5431b"
+path="res://.godot/imported/selector2.png-5bdcd68381271d6b19d2c517eb415cc7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://arvore1.png"
-dest_files=["res://.godot/imported/arvore1.png-f6492822002870a65d68c17f45184d0f.ctex"]
+source_file="res://selector2.png"
+dest_files=["res://.godot/imported/selector2.png-5bdcd68381271d6b19d2c517eb415cc7.ctex"]
 
 [params]
 

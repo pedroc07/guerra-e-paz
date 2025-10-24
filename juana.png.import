@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cbpsb2p218w4u"
-path="res://.godot/imported/arvore1.png-f6492822002870a65d68c17f45184d0f.ctex"
+uid="uid://6eeip40fkkkj"
+path="res://.godot/imported/juana.png-6c31cb00f9cbf5a30ca4e1673baac40c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://arvore1.png"
-dest_files=["res://.godot/imported/arvore1.png-f6492822002870a65d68c17f45184d0f.ctex"]
+source_file="res://juana.png"
+dest_files=["res://.godot/imported/juana.png-6c31cb00f9cbf5a30ca4e1673baac40c.ctex"]
 
 [params]
 
