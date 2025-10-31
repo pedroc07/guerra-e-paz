@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cbpsb2p218w4u"
-path="res://.godot/imported/arvore1.png-f6492822002870a65d68c17f45184d0f.ctex"
+uid="uid://ouur6krpkh73"
+path="res://.godot/imported/areaMovel.png-06b5098f84cd48b9ff48f5d8361ffbee.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://arvore1.png"
-dest_files=["res://.godot/imported/arvore1.png-f6492822002870a65d68c17f45184d0f.ctex"]
+source_file="res://Tilesets/areaMovel.png"
+dest_files=["res://.godot/imported/areaMovel.png-06b5098f84cd48b9ff48f5d8361ffbee.ctex"]
 
 [params]
 

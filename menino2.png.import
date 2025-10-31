@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cbpsb2p218w4u"
-path="res://.godot/imported/arvore1.png-f6492822002870a65d68c17f45184d0f.ctex"
+uid="uid://bfpp4mrg6pu4k"
+path="res://.godot/imported/menino2.png-5646b1977cc4cfcc816868d0ff15631a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://arvore1.png"
-dest_files=["res://.godot/imported/arvore1.png-f6492822002870a65d68c17f45184d0f.ctex"]
+source_file="res://menino2.png"
+dest_files=["res://.godot/imported/menino2.png-5646b1977cc4cfcc816868d0ff15631a.ctex"]
 
 [params]
 
